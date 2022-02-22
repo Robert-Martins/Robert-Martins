@@ -9,6 +9,14 @@ Tecnologias que eu estudo e pratico:
 
 <br/>
 
+Já tenho conhecimento em desenvolvimento mobile com o framework JS React Native.
+
+Agora, meu foco é aprimorar meu conhecimento nas tecnologias HTML e CSS.
+
+Ainda, aprimorar meu conhecimento em JavaScript e suas funcionalidades.
+
+Por último, pretendo iniciar estudos em Java e DB para trabalhar tanto com Front-End e Back-End e como integrá-los.
+
 <div>
   <a href="https://github.com/seu-usuário-aqui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Martins&layout=compact&langs_count=7&theme=dracula"/>
