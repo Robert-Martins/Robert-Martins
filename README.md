@@ -9,16 +9,20 @@ Tecnologias que eu estudo e pratico:
 
 <br/>
 
-Já tenho conhecimento em desenvolvimento mobile com o framework JS React Native.
+Nos últimos meses aprofundei meu conhecimento na estruturação de templates utilizando HTML e na estilização com CSS e SCSS.
 
-Agora, meu foco é aprimorar meu conhecimento nas tecnologias HTML e CSS.
+Ainda, aprimorei minha lógica de programação praticando a escrita de códigos nas linguagens JavaScript e Java.
 
-Ainda, aprimorar meu conhecimento em JavaScript e suas funcionalidades.
+Busquei entender a evolução dessas linguagens desde suas versões mais antigas até as formas mais modernas de codificar usando essas tecnologias.
 
-Por último, pretendo iniciar estudos em Java e DB para trabalhar tanto com Front-End e Back-End e como integrá-los.
+Possuo conhecimento em bancos de dados SQL e NoSQL, sendo eles o PostgreSQL e o MongoDB.
+
+Iniciei estudo nas tecnologias Angular, NodeJS com o framework Express e Spring Boot.
+
+O foco agora é aprofundar no desenvolvimento de aplicações usando essas tecnologias, explorando os diversos cenários encontrados por desenvolvedores.
 
 <div>
-  <a href="https://github.com/seu-usuário-aqui">
+  <a href="https://github.com/Robert-Martins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-Martins&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robert-Martins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
