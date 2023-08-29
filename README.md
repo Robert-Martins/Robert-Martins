@@ -1,7 +1,7 @@
 ## Opa, meu nome é Robert Martins!
 ### Seja bem-vindo ao meu perfil no GitHub
 
-Tenho 21 anos, moro em Goiânia / GO onde estudo e trabalho com desenvolvimento de software.
+Tenho 22 anos, moro em Goiânia / GO onde estudo e trabalho com desenvolvimento de software.
 
 Possuo conhecimento em:
 
@@ -21,7 +21,7 @@ Possuo conhecimento em tecnologias variadas pois tenho o intuito de desenvolver 
 
 O foco agora é aprofundar no desenvolvimento de aplicações usando essas tecnologias, explorando os diversos cenários encontrados por desenvolvedores.
 
-O objetivo principal é aprofundar e consolidar meu conhecimento nas tecnologias descritas e aprender desenvolvimento mobile utilizando tecnologias nativas como o Kotlin e o Swift.
+O objetivo principal é amadurecer e profissionalizar meus conhecimentos nas tecnologias que já possuo conhecimento e me aventurar por Desenvolvimento Mobile, Data Science e IAs.
 
 <div>
   <a href="https://github.com/Robert-Martins">
