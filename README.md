@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robert Martins
 
-🇧🇷 Portuguese version: [README.pt-BR.md](./README.pt-BR.md)
+🇧🇷 Portuguese version: [README.pt-BR.md](https://github.com/Robert-Martins/README-pt-BR)
 
 ---
 
